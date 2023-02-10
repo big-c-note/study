@@ -2,10 +2,14 @@
 
 1. Use virtual environments [1], or containers [2], make installs obvious & secure.
 2. Learn your text editor well.
-  - I use vim [3].
+``` bash
+# I use vim [3].
+```
 3. Use a linter and a fixer.
-  - I use `flake8` [4], `mypy` [5]
-  - I use `black` [6]
+``` bash
+# I use `flake8` [4], `mypy` [5]
+# I use `black` [6]
+```
 4. Use type annotations [7], [8], [9].
 5. Functional Programming FTW / OOP sometimes makes sense [10].
 6. Write clear doc strings. Documentation as code. [11]
